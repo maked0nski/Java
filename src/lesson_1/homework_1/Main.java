@@ -51,6 +51,9 @@ public class Main {
         Telefon nokia = new Telefon(1, "Nokia", "3310", 3.14, 16);
         System.out.println(nokia);
 
+        Telefon telefon1 = new Telefon();
+        System.out.println(telefon1);
+
 
     }
 }
