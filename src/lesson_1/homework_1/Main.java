@@ -48,6 +48,9 @@ public class Main {
         Produktu produktu = new Produktu(5, "orange", "yelow", 0.150);
         System.out.println(produktu);
 
+        Telefon nokia = new Telefon(1, "Nokia", "3310", 3.14, 16);
+        System.out.println(nokia);
+
 
     }
 }
